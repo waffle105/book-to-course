@@ -1,0 +1,4 @@
+interface:
+  display_name: "化书成课"
+  short_description: "把一本书拆解重构为教案、课件、学员手册和练习包。"
+  default_prompt: "Use $book-to-course 按章节把这本书开发成可讲授的课程，并输出详细教案、学员手册、练习资料和课件规划。"
